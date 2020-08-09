@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ParticleDeviceSetupLibrary.init(this.getApplicationContext());
+        ParticleDeviceSetupLibrary.initWithSetupOnly(this.getApplicationContext());
 
         Ui.findView(this, R.id.start_setup_button).setOnClickListener(view -> invokeDeviceSetup());
         Ui.findView(this, R.id.start_setup_custom_intent_button).setOnClickListener(v -> invokeDeviceSetupWithCustomIntentBuilder());

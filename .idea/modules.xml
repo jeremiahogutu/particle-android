@@ -8,8 +8,20 @@
       <module fileurl="file://$PROJECT_DIR$/devicesetup/devicesetup.iml" filepath="$PROJECT_DIR$/devicesetup/devicesetup.iml" group="photon-tinker-android/devicesetup" />
       <module fileurl="file://$PROJECT_DIR$/ecjpake4j/ecjpake4j.iml" filepath="$PROJECT_DIR$/ecjpake4j/ecjpake4j.iml" group="photon-tinker-android/ecjpake4j" />
       <module fileurl="file://$PROJECT_DIR$/firmwareprotos/firmwareprotos.iml" filepath="$PROJECT_DIR$/firmwareprotos/firmwareprotos.iml" group="photon-tinker-android/firmwareprotos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/cloudsdk/io.particle-cloudsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/cloudsdk/io.particle-cloudsdk.iml" group="particle-android/cloudsdk" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/devicesetup/io.particle-devicesetup.iml" filepath="$PROJECT_DIR$/.idea/modules/devicesetup/io.particle-devicesetup.iml" group="particle-android/devicesetup" />
       <module fileurl="file://$PROJECT_DIR$/mesh/mesh.iml" filepath="$PROJECT_DIR$/mesh/mesh.iml" group="photon-tinker-android/mesh" />
       <module fileurl="file://$PROJECT_DIR$/meshui/meshui.iml" filepath="$PROJECT_DIR$/meshui/meshui.iml" group="photon-tinker-android/meshui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/particle-android.iml" filepath="$PROJECT_DIR$/.idea/modules/particle-android.iml" group="particle-android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/particle-android-app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/particle-android-app.iml" group="particle-android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/commonui/particle-android-commonui.iml" filepath="$PROJECT_DIR$/.idea/modules/commonui/particle-android-commonui.iml" group="particle-android/commonui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ecjpake4j/particle-android-ecjpake4j.iml" filepath="$PROJECT_DIR$/.idea/modules/ecjpake4j/particle-android-ecjpake4j.iml" group="particle-android/ecjpake4j" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/firmwareprotos/particle-android-firmwareprotos.iml" filepath="$PROJECT_DIR$/.idea/modules/firmwareprotos/particle-android-firmwareprotos.iml" group="particle-android/firmwareprotos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mesh/particle-android-mesh.iml" filepath="$PROJECT_DIR$/.idea/modules/mesh/particle-android-mesh.iml" group="particle-android/mesh" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/meshui/particle-android-meshui.iml" filepath="$PROJECT_DIR$/.idea/modules/meshui/particle-android-meshui.iml" group="particle-android/meshui" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sdk_example_app/particle-android-sdk_example_app.iml" filepath="$PROJECT_DIR$/.idea/modules/sdk_example_app/particle-android-sdk_example_app.iml" group="particle-android/sdk_example_app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_exampleapp/particle-android-setup_exampleapp.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_exampleapp/particle-android-setup_exampleapp.iml" group="particle-android/setup_exampleapp" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/setup_testapp/particle-android-setup_testapp.iml" filepath="$PROJECT_DIR$/.idea/modules/setup_testapp/particle-android-setup_testapp.iml" group="particle-android/setup_testapp" />
       <module fileurl="file://$PROJECT_DIR$/photon-tinker-android.iml" filepath="$PROJECT_DIR$/photon-tinker-android.iml" group="photon-tinker-android" />
       <module fileurl="file://$PROJECT_DIR$/sdk_example_app/sdk_example_app.iml" filepath="$PROJECT_DIR$/sdk_example_app/sdk_example_app.iml" group="photon-tinker-android/sdk_example_app" />
       <module fileurl="file://$PROJECT_DIR$/setup_exampleapp/setup_exampleapp.iml" filepath="$PROJECT_DIR$/setup_exampleapp/setup_exampleapp.iml" />
